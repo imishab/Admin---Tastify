@@ -1,12 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/admin/dashboard": "pages/admin/dashboard.js",
-  "/admin/signin": "pages/admin/signin.js",
-  "/admin/products/all-products": "pages/admin/products/all-products.js",
-  "/admin/category/all-categories": "pages/admin/category/all-categories.js",
-  "/admin/category/add-category": "pages/admin/category/add-category.js",
-  "/admin/orders/all-orders": "pages/admin/orders/all-orders.js",
-  "/admin/products/add-product": "pages/admin/products/add-product.js"
-}
+{"/_app":"pages/_app.js","/_document":"pages/_document.js","/_error":"pages/_error.js","/admin/category/add-category":"pages/admin/category/add-category.html","/admin/dashboard":"pages/admin/dashboard.html","/admin/category/all-categories":"pages/admin/category/all-categories.html","/admin/orders/all-orders":"pages/admin/orders/all-orders.html","/admin/users/all-users":"pages/admin/users/all-users.html","/admin/signin":"pages/admin/signin.html","/":"pages/index.html","/admin/products/ai-product":"pages/admin/products/ai-product.html","/admin/products/all-products":"pages/admin/products/all-products.html","/admin/products/add-product":"pages/admin/products/add-product.html","/404":"pages/404.html"}
