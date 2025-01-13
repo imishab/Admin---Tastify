@@ -1,19 +1,17 @@
 import { useFetchAdminQuery } from '@/redux/api/adminApi';
-import { Bell, CircleUserRound, Menu } from 'lucide-react'
-import Link from 'next/link';
+import { CircleUserRound, Menu } from 'lucide-react'
 import React from 'react'
-import SignoutButton from './SignoutButton';
 import { useRouter } from 'next/router';
 import { useDispatch } from 'react-redux';
 import { clearAdminDetails } from '@/redux/slices/adminSlice';
 
 export default function Navbar() {
-    const { data: admin, isLoading, error } = useFetchAdminQuery('');
-    if (isLoading) return <p>Loading...</p>;
-    if (error) return <p>Error fetching admin data.</p>;
-
     const router = useRouter();
     const dispatch = useDispatch();
+    const { data: admin, isLoading, error } = useFetchAdminQuery('');
+
+    if (isLoading) return <p>Loading...</p>;
+    if (error) return <p>Error fetching admin data.</p>;
 
     const handleSignout = () => {
         // Clear local storage and token
