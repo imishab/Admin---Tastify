@@ -1,5 +1,4 @@
-import { clearAdminDetails } from '@/redux/slices/adminSlice';
-import { AppWindow, Bell, CircleUserRound, LayoutDashboard, Package, PackageOpen, PanelsTopLeft, ReceiptText, Settings, Shield, Truck, Users, UsersRound } from 'lucide-react'
+import { AppWindow, CircleUserRound, LayoutDashboard, Package, PackageOpen, ReceiptText, Shield, Truck, UsersRound } from 'lucide-react'
 import Link from 'next/link'
 import React from 'react'
 
@@ -17,9 +16,9 @@ export default function Sidebar() {
                             <Link href="/" className="logo logo-light">
                                 <h4><b>Tastify.</b></h4>
                             </Link>
-                            <a href="/" className="logo logo-dark" style={{ marginTop: 50 }}>
+                            <Link href="/" className="logo logo-dark" style={{ marginTop: 50 }}>
                                 <h4><b>Tastify.</b></h4>
-                            </a>
+                            </Link>
                         </div>
                         <ul id="side-menu">
                             <li className="menu-title">Menu</li>
@@ -33,11 +32,11 @@ export default function Sidebar() {
                             <li className="menu-title">Manage</li>
 
                             <li>
-                                <a href="#product" data-bs-toggle="collapse">
+                                <Link href="#product" data-bs-toggle="collapse">
                                     <Package />
                                     <span> Products </span>
                                     <span className="menu-arrow" />
-                                </a>
+                                </Link>
                                 <div className="collapse" id="product">
                                     <ul className="nav-second-level">
                                         <li>
@@ -64,11 +63,11 @@ export default function Sidebar() {
                                 </div>
                             </li>
                             <li>
-                                <a href="#category" data-bs-toggle="collapse">
+                                <Link href="#category" data-bs-toggle="collapse">
                                     <LayoutDashboard />
                                     <span> Category </span>
                                     <span className="menu-arrow" />
-                                </a>
+                                </Link>
                                 <div className="collapse" id="category">
                                     <ul className="nav-second-level">
                                         <li>
@@ -135,6 +134,5 @@ export default function Sidebar() {
             </div>
             {/* Left Sidebar End */}
         </>
-
-    )
+    );
 }

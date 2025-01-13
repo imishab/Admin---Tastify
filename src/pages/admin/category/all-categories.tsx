@@ -1,18 +1,12 @@
-import React from 'react'
+import React from 'react';
 import { useFetchCategoriesQuery, useDeleteCategoryMutation } from "@/redux/api/adminApi";
 import Link from "next/link";
-import { useRouter } from "next/router";
-import { useEffect } from "react";
-import { toast, ToastContainer } from "react-toastify";
+import { toast } from "react-toastify";
 import Swal from "sweetalert2";
-import { Pencil, Trash2 } from 'lucide-react';
 
-export default function allCategories() {
+export default function AllCategories() { // Updated component name to PascalCase
     const { data: categories, isLoading, isError, refetch } = useFetchCategoriesQuery('');
     const [deleteCategory, { isLoading: isDeleting }] = useDeleteCategoryMutation();
-
-
-
 
     // Handle category deletion
     const handleDelete = async (id: string) => {
@@ -40,7 +34,7 @@ export default function allCategories() {
                 });
 
                 refetch();
-            } catch (error) {
+            } catch {
                 // Notify user of failure
                 toast.error('Failed to delete category. Please try again.', {
                     position: 'top-center',
@@ -113,12 +107,8 @@ export default function allCategories() {
                             </div>
                         </div>
                     </div>
-
-
-
                 </div>
             </div>
         </div>
-
-    )
+    );
 }

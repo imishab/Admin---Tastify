@@ -1,24 +1,44 @@
 import React, { useState } from "react";
 import { useFetchOrdersQuery } from "@/redux/api/adminApi";
-import Link from "next/link";
-import { useRouter } from "next/router";
-import { useEffect } from "react";
-import { toast, ToastContainer } from "react-toastify";
-import Swal from "sweetalert2";
-import { Eye, Pencil, SquarePen, Trash2 } from "lucide-react";
-import Modal from "react-bootstrap/Modal"; // Bootstrap modal
+import { Eye, SquarePen, Trash2 } from "lucide-react";
+import Modal from "react-bootstrap/Modal";
 
+// Define interfaces for type safety
+interface Product {
+    title: string;
+    price: number;
+    image: string;
+}
+
+interface OrderItem {
+    product: Product;
+    quantity: number;
+}
+
+interface User {
+    name: string;
+    phone: string;
+    email: string;
+}
+
+interface Order {
+    _id: string;
+    user: User;
+    items: OrderItem[];
+    totalAmount: number;
+    status: string;
+    createdAt: string;
+}
 
 export default function AllOrders() {
-    const { data: orders, isLoading, isError, refetch } = useFetchOrdersQuery("");
-    const router = useRouter();
+    const { data: orders, isLoading } = useFetchOrdersQuery("");
 
     // State for modal visibility and selected order
     const [showModal, setShowModal] = useState(false);
-    const [selectedOrder, setSelectedOrder] = useState(null);
+    const [selectedOrder, setSelectedOrder] = useState<Order | null>(null);
 
     // Open modal with selected order
-    const handleOpenModal = (order: any) => {
+    const handleOpenModal = (order: Order) => {
         setSelectedOrder(order);
         setShowModal(true);
     };
@@ -29,6 +49,8 @@ export default function AllOrders() {
         setSelectedOrder(null);
     };
 
+    // Rest of your component code remains the same, but use the interfaces 
+    // when mapping through orders:
     return (
         <div className="content-page">
             <div className="content">
@@ -177,7 +199,7 @@ export default function AllOrders() {
                                                         </td>
                                                     </tr>
                                                 ) : orders?.length > 0 ? (
-                                                    orders.map((order, index) => (
+                                                    orders.map((order: Order, index: number) => (
                                                         <tr key={order._id}>
                                                             <td>{index + 1}</td>
                                                             <td>#TSF003</td>

@@ -1,12 +1,14 @@
-// withAuth.js
-
 import React, { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import { checkAuthentication } from './CheckAuthentication';
 
+type WrappedComponentProps = {
+    // Specify the expected props for the wrapped component here
+    [key: string]: unknown;
+};
 
-const withAuth = (WrappedComponent: any) => {
-    const AuthenticatedComponent = (props: any) => {
+const withAuth = <P extends WrappedComponentProps>(WrappedComponent: React.ComponentType<P>) => {
+    const AuthenticatedComponent: React.FC<P> = (props) => {
         const router = useRouter();
         const isAuthenticated = checkAuthentication();
 
@@ -14,8 +16,12 @@ const withAuth = (WrappedComponent: any) => {
             if (!isAuthenticated) {
                 router.push('/admin/signin');
             }
-        }, [isAuthenticated]);
+        }, [isAuthenticated, router]);
 
+        // Avoid rendering the WrappedComponent if not authenticated
+        if (!isAuthenticated) {
+            return null;
+        }
 
         return <WrappedComponent {...props} />;
     };

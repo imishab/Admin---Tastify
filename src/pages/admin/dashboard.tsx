@@ -1,7 +1,5 @@
 
 import { useFetchAdminQuery } from '@/redux/api/adminApi';
-import SignoutButton from '@/components/SignoutButton';
-import Sidebar from '@/components/Sidebar';
 
 export default function Dashboard() {
     const { data: admin, isLoading, error } = useFetchAdminQuery('');

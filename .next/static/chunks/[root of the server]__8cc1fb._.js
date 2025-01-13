@@ -710,14 +710,14 @@ function Dashboard() {
         children: "Loading..."
     }, void 0, false, {
         fileName: "[project]/src/pages/admin/dashboard.tsx",
-        lineNumber: 8,
+        lineNumber: 6,
         columnNumber: 27
     }, this);
     if (error) return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
         children: "Error fetching admin data."
     }, void 0, false, {
         fileName: "[project]/src/pages/admin/dashboard.tsx",
-        lineNumber: 9,
+        lineNumber: 7,
         columnNumber: 23
     }, this);
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -742,17 +742,17 @@ function Dashboard() {
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                            lineNumber: 18,
+                                            lineNumber: 16,
                                             columnNumber: 33
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                        lineNumber: 17,
+                                        lineNumber: 15,
                                         columnNumber: 29
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                    lineNumber: 16,
+                                    lineNumber: 14,
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -777,12 +777,12 @@ function Dashboard() {
                                                                             children: "Website Traffic"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                            lineNumber: 31,
+                                                                            lineNumber: 29,
                                                                             columnNumber: 53
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 30,
+                                                                        lineNumber: 28,
                                                                         columnNumber: 49
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -793,7 +793,7 @@ function Dashboard() {
                                                                                 children: "91.6K"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                lineNumber: 34,
+                                                                                lineNumber: 32,
                                                                                 columnNumber: 53
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -811,24 +811,24 @@ function Dashboard() {
                                                                                             }
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                            lineNumber: 40,
+                                                                                            lineNumber: 38,
                                                                                             columnNumber: 61
                                                                                         }, this)
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                    lineNumber: 38,
+                                                                                    lineNumber: 36,
                                                                                     columnNumber: 57
                                                                                 }, this)
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                lineNumber: 37,
+                                                                                lineNumber: 35,
                                                                                 columnNumber: 53
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 33,
+                                                                        lineNumber: 31,
                                                                         columnNumber: 49
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -836,23 +836,23 @@ function Dashboard() {
                                                                         className: "apex-charts"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 48,
+                                                                        lineNumber: 46,
                                                                         columnNumber: 49
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                lineNumber: 29,
+                                                                lineNumber: 27,
                                                                 columnNumber: 45
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                            lineNumber: 28,
+                                                            lineNumber: 26,
                                                             columnNumber: 41
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                        lineNumber: 27,
+                                                        lineNumber: 25,
                                                         columnNumber: 37
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -869,12 +869,12 @@ function Dashboard() {
                                                                             children: "Conversion rate"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                            lineNumber: 56,
+                                                                            lineNumber: 54,
                                                                             columnNumber: 53
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 55,
+                                                                        lineNumber: 53,
                                                                         columnNumber: 49
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -885,7 +885,7 @@ function Dashboard() {
                                                                                 children: "15%"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                lineNumber: 59,
+                                                                                lineNumber: 57,
                                                                                 columnNumber: 53
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -903,24 +903,24 @@ function Dashboard() {
                                                                                             }
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                            lineNumber: 65,
+                                                                                            lineNumber: 63,
                                                                                             columnNumber: 61
                                                                                         }, this)
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                    lineNumber: 63,
+                                                                                    lineNumber: 61,
                                                                                     columnNumber: 57
                                                                                 }, this)
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                lineNumber: 62,
+                                                                                lineNumber: 60,
                                                                                 columnNumber: 53
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 58,
+                                                                        lineNumber: 56,
                                                                         columnNumber: 49
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -928,23 +928,23 @@ function Dashboard() {
                                                                         className: "apex-charts"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 73,
+                                                                        lineNumber: 71,
                                                                         columnNumber: 49
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                lineNumber: 54,
+                                                                lineNumber: 52,
                                                                 columnNumber: 45
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                            lineNumber: 53,
+                                                            lineNumber: 51,
                                                             columnNumber: 41
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                        lineNumber: 52,
+                                                        lineNumber: 50,
                                                         columnNumber: 37
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -961,12 +961,12 @@ function Dashboard() {
                                                                             children: "Session duration"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                            lineNumber: 81,
+                                                                            lineNumber: 79,
                                                                             columnNumber: 53
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 80,
+                                                                        lineNumber: 78,
                                                                         columnNumber: 49
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -977,7 +977,7 @@ function Dashboard() {
                                                                                 children: "90 Sec"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                lineNumber: 84,
+                                                                                lineNumber: 82,
                                                                                 columnNumber: 53
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -995,24 +995,24 @@ function Dashboard() {
                                                                                             }
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                            lineNumber: 90,
+                                                                                            lineNumber: 88,
                                                                                             columnNumber: 61
                                                                                         }, this)
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                    lineNumber: 88,
+                                                                                    lineNumber: 86,
                                                                                     columnNumber: 57
                                                                                 }, this)
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                lineNumber: 87,
+                                                                                lineNumber: 85,
                                                                                 columnNumber: 53
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 83,
+                                                                        lineNumber: 81,
                                                                         columnNumber: 49
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1020,23 +1020,23 @@ function Dashboard() {
                                                                         className: "apex-charts"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 98,
+                                                                        lineNumber: 96,
                                                                         columnNumber: 49
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                lineNumber: 79,
+                                                                lineNumber: 77,
                                                                 columnNumber: 45
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                            lineNumber: 78,
+                                                            lineNumber: 76,
                                                             columnNumber: 41
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                        lineNumber: 77,
+                                                        lineNumber: 75,
                                                         columnNumber: 37
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1053,12 +1053,12 @@ function Dashboard() {
                                                                             children: "Active Users"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                            lineNumber: 106,
+                                                                            lineNumber: 104,
                                                                             columnNumber: 53
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 105,
+                                                                        lineNumber: 103,
                                                                         columnNumber: 49
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1069,7 +1069,7 @@ function Dashboard() {
                                                                                 children: "2,986"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                lineNumber: 109,
+                                                                                lineNumber: 107,
                                                                                 columnNumber: 53
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1087,24 +1087,24 @@ function Dashboard() {
                                                                                             }
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                            lineNumber: 115,
+                                                                                            lineNumber: 113,
                                                                                             columnNumber: 61
                                                                                         }, this)
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                    lineNumber: 113,
+                                                                                    lineNumber: 111,
                                                                                     columnNumber: 57
                                                                                 }, this)
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                lineNumber: 112,
+                                                                                lineNumber: 110,
                                                                                 columnNumber: 53
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 108,
+                                                                        lineNumber: 106,
                                                                         columnNumber: 49
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1112,41 +1112,41 @@ function Dashboard() {
                                                                         className: "apex-charts"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 123,
+                                                                        lineNumber: 121,
                                                                         columnNumber: 49
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                lineNumber: 104,
+                                                                lineNumber: 102,
                                                                 columnNumber: 45
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                            lineNumber: 103,
+                                                            lineNumber: 101,
                                                             columnNumber: 41
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                        lineNumber: 102,
+                                                        lineNumber: 100,
                                                         columnNumber: 37
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                lineNumber: 26,
+                                                lineNumber: 24,
                                                 columnNumber: 33
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                            lineNumber: 25,
+                                            lineNumber: 23,
                                             columnNumber: 29
                                         }, this),
                                         " "
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                    lineNumber: 24,
+                                    lineNumber: 22,
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1169,12 +1169,12 @@ function Dashboard() {
                                                                         className: "widgets-icons"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 141,
+                                                                        lineNumber: 139,
                                                                         columnNumber: 49
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                    lineNumber: 140,
+                                                                    lineNumber: 138,
                                                                     columnNumber: 45
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
@@ -1182,18 +1182,18 @@ function Dashboard() {
                                                                     children: "Audiences By Time Of Day"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                    lineNumber: 143,
+                                                                    lineNumber: 141,
                                                                     columnNumber: 45
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                            lineNumber: 139,
+                                                            lineNumber: 137,
                                                             columnNumber: 41
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                        lineNumber: 138,
+                                                        lineNumber: 136,
                                                         columnNumber: 37
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1203,23 +1203,23 @@ function Dashboard() {
                                                             className: "apex-charts mt-n3"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                            lineNumber: 147,
+                                                            lineNumber: 145,
                                                             columnNumber: 41
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                        lineNumber: 146,
+                                                        lineNumber: 144,
                                                         columnNumber: 37
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                lineNumber: 137,
+                                                lineNumber: 135,
                                                 columnNumber: 33
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                            lineNumber: 136,
+                                            lineNumber: 134,
                                             columnNumber: 29
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1239,12 +1239,12 @@ function Dashboard() {
                                                                         className: "widgets-icons"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 156,
+                                                                        lineNumber: 154,
                                                                         columnNumber: 49
                                                                     }, this)
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                    lineNumber: 155,
+                                                                    lineNumber: 153,
                                                                     columnNumber: 45
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h5", {
@@ -1252,18 +1252,18 @@ function Dashboard() {
                                                                     children: "Most Visited Pages"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                    lineNumber: 158,
+                                                                    lineNumber: 156,
                                                                     columnNumber: 45
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                            lineNumber: 154,
+                                                            lineNumber: 152,
                                                             columnNumber: 41
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                        lineNumber: 153,
+                                                        lineNumber: 151,
                                                         columnNumber: 37
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1275,7 +1275,7 @@ function Dashboard() {
                                                                 children: [
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("tbody", {}, void 0, false, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 164,
+                                                                        lineNumber: 162,
                                                                         columnNumber: 49
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("thead", {
@@ -1285,21 +1285,21 @@ function Dashboard() {
                                                                                     children: "Page name"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                    lineNumber: 167,
+                                                                                    lineNumber: 165,
                                                                                     columnNumber: 57
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
                                                                                     children: "Visitors"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                    lineNumber: 168,
+                                                                                    lineNumber: 166,
                                                                                     columnNumber: 57
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
                                                                                     children: "Unique"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                    lineNumber: 169,
+                                                                                    lineNumber: 167,
                                                                                     columnNumber: 57
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("th", {
@@ -1307,18 +1307,18 @@ function Dashboard() {
                                                                                     children: "Bounce rate"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                    lineNumber: 170,
+                                                                                    lineNumber: 168,
                                                                                     columnNumber: 57
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                            lineNumber: 166,
+                                                                            lineNumber: 164,
                                                                             columnNumber: 53
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 165,
+                                                                        lineNumber: 163,
                                                                         columnNumber: 49
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("tbody", {
@@ -1341,39 +1341,39 @@ function Dashboard() {
                                                                                                     }
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                                    lineNumber: 178,
+                                                                                                    lineNumber: 176,
                                                                                                     columnNumber: 65
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                                lineNumber: 177,
+                                                                                                lineNumber: 175,
                                                                                                 columnNumber: 61
                                                                                             }, this)
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 175,
+                                                                                        lineNumber: 173,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "5,896"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 185,
+                                                                                        lineNumber: 183,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "3,654"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 186,
+                                                                                        lineNumber: 184,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "82.54%"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 187,
+                                                                                        lineNumber: 185,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
@@ -1383,18 +1383,18 @@ function Dashboard() {
                                                                                             className: "apex-charts"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                            lineNumber: 189,
+                                                                                            lineNumber: 187,
                                                                                             columnNumber: 61
                                                                                         }, this)
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 188,
+                                                                                        lineNumber: 186,
                                                                                         columnNumber: 57
                                                                                     }, this)
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                lineNumber: 174,
+                                                                                lineNumber: 172,
                                                                                 columnNumber: 53
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("tr", {
@@ -1415,39 +1415,39 @@ function Dashboard() {
                                                                                                     }
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                                    lineNumber: 196,
+                                                                                                    lineNumber: 194,
                                                                                                     columnNumber: 65
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                                lineNumber: 195,
+                                                                                                lineNumber: 193,
                                                                                                 columnNumber: 61
                                                                                             }, this)
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 193,
+                                                                                        lineNumber: 191,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "3,898"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 203,
+                                                                                        lineNumber: 201,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "3,450"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 204,
+                                                                                        lineNumber: 202,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "76.29%"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 205,
+                                                                                        lineNumber: 203,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
@@ -1457,18 +1457,18 @@ function Dashboard() {
                                                                                             className: "apex-charts"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                            lineNumber: 207,
+                                                                                            lineNumber: 205,
                                                                                             columnNumber: 61
                                                                                         }, this)
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 206,
+                                                                                        lineNumber: 204,
                                                                                         columnNumber: 57
                                                                                     }, this)
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                lineNumber: 192,
+                                                                                lineNumber: 190,
                                                                                 columnNumber: 53
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("tr", {
@@ -1489,39 +1489,39 @@ function Dashboard() {
                                                                                                     }
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                                    lineNumber: 214,
+                                                                                                    lineNumber: 212,
                                                                                                     columnNumber: 65
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                                lineNumber: 213,
+                                                                                                lineNumber: 211,
                                                                                                 columnNumber: 61
                                                                                             }, this)
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 211,
+                                                                                        lineNumber: 209,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "3,057"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 221,
+                                                                                        lineNumber: 219,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "2,589"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 222,
+                                                                                        lineNumber: 220,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "72.68%"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 223,
+                                                                                        lineNumber: 221,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
@@ -1531,18 +1531,18 @@ function Dashboard() {
                                                                                             className: "apex-charts"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                            lineNumber: 225,
+                                                                                            lineNumber: 223,
                                                                                             columnNumber: 61
                                                                                         }, this)
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 224,
+                                                                                        lineNumber: 222,
                                                                                         columnNumber: 57
                                                                                     }, this)
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                lineNumber: 210,
+                                                                                lineNumber: 208,
                                                                                 columnNumber: 53
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("tr", {
@@ -1563,39 +1563,39 @@ function Dashboard() {
                                                                                                     }
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                                    lineNumber: 232,
+                                                                                                    lineNumber: 230,
                                                                                                     columnNumber: 65
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                                lineNumber: 231,
+                                                                                                lineNumber: 229,
                                                                                                 columnNumber: 61
                                                                                             }, this)
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 229,
+                                                                                        lineNumber: 227,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "867"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 239,
+                                                                                        lineNumber: 237,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "795"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 240,
+                                                                                        lineNumber: 238,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "44.78%"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 241,
+                                                                                        lineNumber: 239,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
@@ -1605,18 +1605,18 @@ function Dashboard() {
                                                                                             className: "apex-charts"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                            lineNumber: 243,
+                                                                                            lineNumber: 241,
                                                                                             columnNumber: 61
                                                                                         }, this)
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 242,
+                                                                                        lineNumber: 240,
                                                                                         columnNumber: 57
                                                                                     }, this)
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                lineNumber: 228,
+                                                                                lineNumber: 226,
                                                                                 columnNumber: 53
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("tr", {
@@ -1637,39 +1637,39 @@ function Dashboard() {
                                                                                                     }
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                                    lineNumber: 250,
+                                                                                                    lineNumber: 248,
                                                                                                     columnNumber: 65
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                                lineNumber: 249,
+                                                                                                lineNumber: 247,
                                                                                                 columnNumber: 61
                                                                                             }, this)
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 247,
+                                                                                        lineNumber: 245,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "958"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 257,
+                                                                                        lineNumber: 255,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "801"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 258,
+                                                                                        lineNumber: 256,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "41.15%"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 259,
+                                                                                        lineNumber: 257,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
@@ -1679,18 +1679,18 @@ function Dashboard() {
                                                                                             className: "apex-charts"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                            lineNumber: 261,
+                                                                                            lineNumber: 259,
                                                                                             columnNumber: 61
                                                                                         }, this)
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 260,
+                                                                                        lineNumber: 258,
                                                                                         columnNumber: 57
                                                                                     }, this)
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                lineNumber: 246,
+                                                                                lineNumber: 244,
                                                                                 columnNumber: 53
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("tr", {
@@ -1711,39 +1711,39 @@ function Dashboard() {
                                                                                                     }
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                                    lineNumber: 268,
+                                                                                                    lineNumber: 266,
                                                                                                     columnNumber: 65
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                                lineNumber: 267,
+                                                                                                lineNumber: 265,
                                                                                                 columnNumber: 61
                                                                                             }, this)
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 265,
+                                                                                        lineNumber: 263,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "658"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 275,
+                                                                                        lineNumber: 273,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "589"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 276,
+                                                                                        lineNumber: 274,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "32.65%"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 277,
+                                                                                        lineNumber: 275,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
@@ -1753,18 +1753,18 @@ function Dashboard() {
                                                                                             className: "apex-charts"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                            lineNumber: 279,
+                                                                                            lineNumber: 277,
                                                                                             columnNumber: 61
                                                                                         }, this)
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 278,
+                                                                                        lineNumber: 276,
                                                                                         columnNumber: 57
                                                                                     }, this)
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                lineNumber: 264,
+                                                                                lineNumber: 262,
                                                                                 columnNumber: 53
                                                                             }, this),
                                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("tr", {
@@ -1785,39 +1785,39 @@ function Dashboard() {
                                                                                                     }
                                                                                                 }, void 0, false, {
                                                                                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                                    lineNumber: 286,
+                                                                                                    lineNumber: 284,
                                                                                                     columnNumber: 65
                                                                                                 }, this)
                                                                                             }, void 0, false, {
                                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                                lineNumber: 285,
+                                                                                                lineNumber: 283,
                                                                                                 columnNumber: 61
                                                                                             }, this)
                                                                                         ]
                                                                                     }, void 0, true, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 283,
+                                                                                        lineNumber: 281,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "457"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 293,
+                                                                                        lineNumber: 291,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "859"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 294,
+                                                                                        lineNumber: 292,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
                                                                                         children: "32.65%"
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 295,
+                                                                                        lineNumber: 293,
                                                                                         columnNumber: 57
                                                                                     }, this),
                                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("td", {
@@ -1827,70 +1827,70 @@ function Dashboard() {
                                                                                             className: "apex-charts"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                            lineNumber: 297,
+                                                                                            lineNumber: 295,
                                                                                             columnNumber: 61
                                                                                         }, this)
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                        lineNumber: 296,
+                                                                                        lineNumber: 294,
                                                                                         columnNumber: 57
                                                                                     }, this)
                                                                                 ]
                                                                             }, void 0, true, {
                                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                                lineNumber: 282,
+                                                                                lineNumber: 280,
                                                                                 columnNumber: 53
                                                                             }, this)
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                        lineNumber: 173,
+                                                                        lineNumber: 171,
                                                                         columnNumber: 49
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                                lineNumber: 163,
+                                                                lineNumber: 161,
                                                                 columnNumber: 45
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                            lineNumber: 162,
+                                                            lineNumber: 160,
                                                             columnNumber: 41
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                        lineNumber: 161,
+                                                        lineNumber: 159,
                                                         columnNumber: 37
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                                lineNumber: 152,
+                                                lineNumber: 150,
                                                 columnNumber: 33
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                            lineNumber: 151,
+                                            lineNumber: 149,
                                             columnNumber: 29
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                    lineNumber: 135,
+                                    lineNumber: 133,
                                     columnNumber: 25
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                            lineNumber: 15,
+                            lineNumber: 13,
                             columnNumber: 21
                         }, this),
                         " "
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                    lineNumber: 13,
+                    lineNumber: 11,
                     columnNumber: 17
                 }, this),
                 " ",
@@ -1908,7 +1908,7 @@ function Dashboard() {
                                         className: "mdi mdi-heart text-danger"
                                     }, void 0, false, {
                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                        lineNumber: 316,
+                                        lineNumber: 314,
                                         columnNumber: 47
                                     }, this),
                                     " by",
@@ -1919,34 +1919,34 @@ function Dashboard() {
                                         children: "Zoyothemes"
                                     }, void 0, false, {
                                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                        lineNumber: 317,
+                                        lineNumber: 315,
                                         columnNumber: 33
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/pages/admin/dashboard.tsx",
-                                lineNumber: 315,
+                                lineNumber: 313,
                                 columnNumber: 29
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/pages/admin/dashboard.tsx",
-                            lineNumber: 314,
+                            lineNumber: 312,
                             columnNumber: 25
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/pages/admin/dashboard.tsx",
-                        lineNumber: 313,
+                        lineNumber: 311,
                         columnNumber: 21
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/pages/admin/dashboard.tsx",
-                    lineNumber: 312,
+                    lineNumber: 310,
                     columnNumber: 17
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/pages/admin/dashboard.tsx",
-            lineNumber: 12,
+            lineNumber: 10,
             columnNumber: 13
         }, this)
     }, void 0, false);

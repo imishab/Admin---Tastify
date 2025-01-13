@@ -87,7 +87,7 @@ function Document() {
                             href: "../../assets/images/favicon.ico"
                         }, void 0, false, {
                             fileName: "[project]/src/pages/_document.tsx",
-                            lineNumber: 25,
+                            lineNumber: 17,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("link", {
@@ -97,7 +97,7 @@ function Document() {
                             id: "app-style"
                         }, void 0, false, {
                             fileName: "[project]/src/pages/_document.tsx",
-                            lineNumber: 27,
+                            lineNumber: 19,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("link", {
@@ -106,7 +106,7 @@ function Document() {
                             type: "text/css"
                         }, void 0, false, {
                             fileName: "[project]/src/pages/_document.tsx",
-                            lineNumber: 34,
+                            lineNumber: 26,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("link", {
@@ -115,7 +115,7 @@ function Document() {
                             type: "text/css"
                         }, void 0, false, {
                             fileName: "[project]/src/pages/_document.tsx",
-                            lineNumber: 35,
+                            lineNumber: 27,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("link", {
@@ -124,7 +124,7 @@ function Document() {
                             type: "text/css"
                         }, void 0, false, {
                             fileName: "[project]/src/pages/_document.tsx",
-                            lineNumber: 36,
+                            lineNumber: 28,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("link", {
@@ -133,7 +133,7 @@ function Document() {
                             type: "text/css"
                         }, void 0, false, {
                             fileName: "[project]/src/pages/_document.tsx",
-                            lineNumber: 38,
+                            lineNumber: 30,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("link", {
@@ -142,7 +142,7 @@ function Document() {
                             type: "text/css"
                         }, void 0, false, {
                             fileName: "[project]/src/pages/_document.tsx",
-                            lineNumber: 39,
+                            lineNumber: 31,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("link", {
@@ -151,7 +151,7 @@ function Document() {
                             type: "text/css"
                         }, void 0, false, {
                             fileName: "[project]/src/pages/_document.tsx",
-                            lineNumber: 40,
+                            lineNumber: 32,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("link", {
@@ -160,7 +160,7 @@ function Document() {
                             type: "text/css"
                         }, void 0, false, {
                             fileName: "[project]/src/pages/_document.tsx",
-                            lineNumber: 41,
+                            lineNumber: 33,
                             columnNumber: 11
                         }, this)
                     ]
@@ -176,165 +176,25 @@ function Document() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$document$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["Main"], {}, void 0, false, {
                         fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 47,
+                        lineNumber: 39,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$document$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["NextScript"], {}, void 0, false, {
                         fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 48,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/jquery/jquery.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 50,
+                        lineNumber: 40,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
                         src: "../../assets/libs/bootstrap/js/bootstrap.bundle.min.js"
                     }, void 0, false, {
                         fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 51,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/simplebar/simplebar.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 52,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/node-waves/waves.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 53,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/waypoints/lib/jquery.waypoints.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 54,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/jquery.counterup/jquery.counterup.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 55,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/feather-icons/feather.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 56,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/apexcharts/apexcharts.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 58,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "https://apexcharts.com/samples/assets/stock-prices.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 60,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/js/pages/analytics-dashboard.init.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 62,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/js/app.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 64,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/datatables.net/js/jquery.dataTables.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 67,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/datatables.net-bs5/js/dataTables.bootstrap5.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 69,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/datatables.net-buttons/js/dataTables.buttons.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 70,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/datatables.net-keytable/js/dataTables.keyTable.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 71,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/datatables.net-keytable-bs5/js/keyTable.bootstrap5.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 72,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/datatables.net-responsive/js/dataTables.responsive.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 77,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/datatables.net-responsive-bs5/js/responsive.bootstrap5.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 78,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/datatables.net-select/js/dataTables.select.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 81,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/libs/datatables.net-select-bs5/js/select.bootstrap5.min.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 82,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("script", {
-                        src: "../../assets/js/pages/datatable.init.js"
-                    }, void 0, false, {
-                        fileName: "[project]/src/pages/_document.tsx",
-                        lineNumber: 84,
+                        lineNumber: 42,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/pages/_document.tsx",
-                lineNumber: 46,
+                lineNumber: 38,
                 columnNumber: 7
             }, this)
         ]
